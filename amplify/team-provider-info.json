@@ -12,14 +12,14 @@
       "AmplifyAppId": "d8kcia1y24lo5"
     },
     "categories": {
-      "auth": {
-        "amplifyapp2317b8ce": {}
-      },
       "api": {
         "amplifyapp": {}
       },
       "storage": {
         "imagestorage": {}
+      },
+      "auth": {
+        "amplifyapp04a106bc": {}
       }
     }
   }
